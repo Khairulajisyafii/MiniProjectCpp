@@ -1,0 +1,6 @@
+Halo, ini adalah contoh menulis ke file!
+Baris kedua dari contoh teks ini.
+Menambahkan data baru ke file.
+Menambahkan data baru ke file.
+Menambahkan data baru ke file.
+Menambahkan data baru ke file.
